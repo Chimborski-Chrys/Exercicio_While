@@ -1,0 +1,13 @@
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.exe
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.deps.json
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.runtimeconfig.json
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.runtimeconfig.dev.json
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.dll
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\bin\Debug\netcoreapp3.1\PropostaExercicio_While.pdb
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.csproj.AssemblyReference.cache
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.AssemblyInfoInputs.cache
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.AssemblyInfo.cs
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.csproj.CoreCompileInputs.cache
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.dll
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.pdb
+D:\ws-vs2019\PropostaExercicio_While\PropostaExercicio_While\obj\Debug\netcoreapp3.1\PropostaExercicio_While.genruntimeconfig.cache

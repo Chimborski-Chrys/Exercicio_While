@@ -78,6 +78,10 @@ namespace PropostaExercicio_While
             Console.WriteLine("Alcool: " + alcool);
             Console.WriteLine("Gasolina: " + gasolina);
             Console.WriteLine("Diesel: " +diesel);
+
+            Console.WriteLine("<---------------------->");
+            Console.WriteLine("Completou todos os exercicios");
+
         }
 
     }

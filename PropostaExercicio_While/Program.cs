@@ -81,6 +81,8 @@ namespace PropostaExercicio_While
 
             Console.WriteLine("<---------------------->");
             Console.WriteLine("Completou todos os exercicios");
+            Console.WriteLine("<---------------------->");
+            Console.WriteLine("Parabéns!");
 
         }
 
